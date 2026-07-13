@@ -1,5 +1,7 @@
 # codexpet_nahida
 
+![Nahida Codex pet preview](assets/preview.gif)
+
 A Codex v2 animated pet package for Nahida.
 
 ## Files
